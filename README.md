@@ -1,9 +1,16 @@
-## Hi there 👋
+## Hey there 👋
+I'm Tejashwin, an ai/ml engineer based in India
+
+if an idea pops into my head, chance ar I'll built it 
+
+My main tech stach is C, python . my favorite tools are ...
+
+I've have been wo
 
 <!--
-**Tejashwinknayak/Tejashwinknayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
