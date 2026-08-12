@@ -1,5 +1,5 @@
 ## Hey there 👋
-I'm Tejashwin, an ai/ml engineer based in India
+I'm Tejashwin, an AI/ML engineer based in India
 
 if an idea pops into my head, chance ar I'll built it 
 
