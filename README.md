@@ -5,7 +5,7 @@ if an idea pops into my head, chance ar I'll built it
 
 My main tech stach is C, python . my favorite tools are ...
 
-I've have been skjsdkoewoilamnfknfoier skjdbnfwjen i will hhe the hero
+I've have been 
 
 <!--
 
