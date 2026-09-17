@@ -3,10 +3,8 @@ I'm Tejashwin, an AI/ML engineer based in India
 
 if an idea pops into my head, chance ar I'll built it 
 
-My main tech stach is C, python . my favorite tools are ...
+My main tech stach is C, python  ...
 
-
-I've have been 
 
 <!--
 
