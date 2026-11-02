@@ -1,9 +1,9 @@
 ## Hey there 👋
 I'm Tejashwin, an AI/ML engineer based in India
 
-if an idea pops into my head, chance ar I'll built it 
+if an idea pops into my head, chance are I'll built it 
 
-My main tech stach is C, python  ...
+My main tech is in C, python  ...
 
 
 <!--
